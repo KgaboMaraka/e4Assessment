@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Id>5</Id>
+    <Name>Kgabo</Name>
+    <Surname>Maraka</Surname>
+    <CellNo>0114455854</CellNo>
+  </User>
+  <User>
+    <Id>2</Id>
+    <Name>Seritsi</Name>
+    <Surname>Ratsedi</Surname>
+    <CellNo>0725588452</CellNo>
+  </User>
+  <User>
+    <Id>7</Id>
+    <Name>Mishack</Name>
+    <Surname>Tenpo</Surname>
+    <CellNo>0751122325</CellNo>
+  </User>
+  <User>
+    <Id>6</Id>
+    <Name>Mosomo</Name>
+    <Surname>Seago</Surname>
+    <CellNo>051447474</CellNo>
+  </User>
+  <User>
+    <Id>8</Id>
+    <Name>Milo</Name>
+    <Surname>Dacoma</Surname>
+    <CellNo>0741122325</CellNo>
+  </User>
+  <User>
+    <Id>4</Id>
+    <Name>Sello</Name>
+    <Surname>Rapitsi</Surname>
+    <CellNo>0815232565</CellNo>
+  </User>
+</Users>
