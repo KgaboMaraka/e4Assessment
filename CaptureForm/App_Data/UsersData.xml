@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Users>
   <User>
-    <Id>5</Id>
+    <Id>1</Id>
     <Name>Kgabo</Name>
     <Surname>Maraka</Surname>
     <CellNo>0114455854</CellNo>
@@ -13,27 +13,39 @@
     <CellNo>0725588452</CellNo>
   </User>
   <User>
-    <Id>7</Id>
-    <Name>Mishack</Name>
-    <Surname>Tenpo</Surname>
-    <CellNo>0751122325</CellNo>
+    <Id>3</Id>
+    <Name>Mishacks</Name>
+    <Surname>Tempo</Surname>
+    <CellNo>0751122666</CellNo>
+  </User>
+  <User>
+    <Id>5</Id>
+    <Name>Milon</Name>
+    <Surname>Dacoma</Surname>
+    <CellNo>0741122327</CellNo>
   </User>
   <User>
     <Id>6</Id>
-    <Name>Mosomo</Name>
-    <Surname>Seago</Surname>
-    <CellNo>051447474</CellNo>
+    <Name>Donald</Name>
+    <Surname>Smith</Surname>
+    <CellNo>0832211478</CellNo>
+  </User>
+  <User>
+    <Id>7</Id>
+    <Name>Milton</Name>
+    <Surname>Tingler</Surname>
+    <CellNo>0412151214</CellNo>
   </User>
   <User>
     <Id>8</Id>
-    <Name>Milo</Name>
-    <Surname>Dacoma</Surname>
-    <CellNo>0741122325</CellNo>
+    <Name>Craig</Name>
+    <Surname>Davids</Surname>
+    <CellNo>1111122223</CellNo>
   </User>
   <User>
     <Id>4</Id>
-    <Name>Sello</Name>
-    <Surname>Rapitsi</Surname>
-    <CellNo>0815232565</CellNo>
+    <Name>Sidwell</Name>
+    <Surname>Ramakomo</Surname>
+    <CellNo>0712255485</CellNo>
   </User>
 </Users>

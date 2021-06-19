@@ -47,10 +47,6 @@ namespace CaptureForm.Models
                 StringReader stringReader = new StringReader(selected.ToString());
                 Users user = (Users)serializer.Deserialize(stringReader);
 
-                //StringReader reader = new StringReader(selected.ToString());
-                //XmlSerializer serializer = new XmlSerializer(typeof(Users));
-                //return (Users)serializer.Deserialize(reader);
-
                 return user;
             }
             catch (Exception)
@@ -92,11 +88,8 @@ namespace CaptureForm.Models
                     xmlDoc.Save(HttpContext.Current.Server.MapPath("~/App_Data/UsersData.xml"));
                     xmlDoc.Element("Users").Add(new XElement("User",
                         new XElement("Id", user.Id),
-
                         new XElement("Name", user.Name),
-
                         new XElement("Surname", user.Surname),
-
                         new XElement("CellNo", user.CellNo)
                     ));
                     xmlDoc.Save(HttpContext.Current.Server.MapPath("~/App_Data/UsersData.xml"));
@@ -121,11 +114,8 @@ namespace CaptureForm.Models
                     XDocument xmlDoc = XDocument.Load(HttpContext.Current.Server.MapPath("~/App_Data/UsersData.xml"));
                     xmlDoc.Element("Users").Add(new XElement("User",
                         new XElement("Id", Max),
-
                         new XElement("Name", user.Name),
-
                         new XElement("Surname", user.Surname),
-
                         new XElement("CellNo", user.CellNo)
                     ));
                     xmlDoc.Save(HttpContext.Current.Server.MapPath("~/App_Data/UsersData.xml"));
